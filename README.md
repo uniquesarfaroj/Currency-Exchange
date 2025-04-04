@@ -53,3 +53,8 @@ Check out the live deployed version here:
 
 ---
 
+## ✨ Feedback
+
+If you like the project, give it a ⭐ on GitHub.  
+Feel free to submit issues or feature requests!
+
